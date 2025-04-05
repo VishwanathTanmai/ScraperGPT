@@ -1,0 +1,2 @@
+# ScraperGPT
+AI gpt app
